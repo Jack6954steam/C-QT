@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Circle_pool", "Circle_pool.vcxproj", "{F47027D5-6EF3-4D69-B9BE-D122C40B950A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F47027D5-6EF3-4D69-B9BE-D122C40B950A}.Debug|x64.ActiveCfg = Debug|x64
+		{F47027D5-6EF3-4D69-B9BE-D122C40B950A}.Debug|x64.Build.0 = Debug|x64
+		{F47027D5-6EF3-4D69-B9BE-D122C40B950A}.Release|x64.ActiveCfg = Release|x64
+		{F47027D5-6EF3-4D69-B9BE-D122C40B950A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D359B119-07D9-4CD0-90CD-5C7DA58CF95C}
+	EndGlobalSection
+EndGlobal
